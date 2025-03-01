@@ -1,4 +1,4 @@
-# Project-4-Group-02
+# Rich-Text-Doc-PDF-RAG-for-Arxiv-Papers
 
 ## Env Setup
 
