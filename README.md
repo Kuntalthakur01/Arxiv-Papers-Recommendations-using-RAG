@@ -1,4 +1,5 @@
-# Rich-Text-Doc-PDF-RAG-for-Arxiv-Papers
+# Arxiv-Papers-Recommendations-using-RAG
+
 
 ## Env Setup
 
